@@ -4,7 +4,7 @@ body {
     font-weight: 400;
 }
 .dw-app-window.dark-grey {
-    margin-top: 90px;
+    margin-top: 80px;
     background: #232223;
     border-radius: 8px;
     transition: background-color 0.5s ease;
@@ -81,7 +81,7 @@ body {
     width: 700px;
     height: 505px;
     background: #484848;
-    margin: 110px auto 125px;
+    margin: 100px auto 115px;
     border-radius: 8px;
     transition: background-color 0.5s ease;
 }
@@ -352,7 +352,7 @@ body {
 /* ##############################   LIGHT GREY   ##################################### */
 
 .dw-app-window.light-theme  {
-    margin-top: 90px;
+    margin-top: 80px;
     background: #b7b7b7;
     border-radius: 8px;
     transition: background-color 0.5s ease;
@@ -430,7 +430,7 @@ body {
     width: 700px;
     height: 505px;
     background: #f0f0f0;
-    margin: 110px auto 125px;
+    margin: 100px auto 115px;
     border-radius: 8px;
     transition: background-color 0.5s ease;
 }
